@@ -4,7 +4,7 @@
 
 
 
-- 📫 How to reach me **nikbo100101@gmail.com**
+📫 <b>How to reach me:</b> **nikbo100101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
