@@ -11,13 +11,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikiniki79&show_icons=true&locale=en&layout=compact" alt="nikiniki79" /></p>
 
+📫 <b>How to reach me:</b> **nikbo100101@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikinikibo666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikinikibo666" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikita-boiko-a72401221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-boiko-a72401221/" height="30" width="40" /></a>
 </p>
 
-📫 <b>How to reach me:</b> **nikbo100101@gmail.com**
 
 <p><img align="center" src="https://www.codewars.com/users/nikiniki79/badges/large" alt="nikiniki79" /></p>
 
