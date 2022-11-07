@@ -20,7 +20,7 @@
 </p>
 
 
-<p><img align="center" src="https://www.codewars.com/users/nikiniki79/badges/large" alt="nikiniki79" /></p>
+<p><img align="center" src="https://www.codewars.com/users/nikiniki79/badges/small" alt="nikiniki79" /></p>
 
 
 
