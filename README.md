@@ -17,6 +17,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikiniki79&show_icons=true&locale=en&layout=compact" alt="nikiniki79" /></p>
 
-<p><img align="center" src="https://www.codewars.com/users/nikiniki79/badges/small" alt="nikiniki79" /></p>
-
+<p><img align="center" src="https://www.codewars.com/users/nikiniki79/badges/large" alt="nikiniki79" /></p>
 
